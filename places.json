@@ -1,0 +1,17 @@
+{
+    "Places" : 
+        [{ "ID" : "1", "Distance" : "800m", "PlaceType" : "Pizza", "Name" : "Andronaco" },
+        {  "ID" : "2", "Distance" : "650m", "PlaceType" : "Burger", "Name" : "Hans im Glueck" },
+        {  "ID" : "3", "Distance" : "1.1km", "PlaceType" : "Burger", "Name" : "Burgerlich"},
+        {  "ID" : "4", "Distance" : "700m", "PlaceType" : "Thai", "Name" : "Thai-Food"},
+        {  "ID" : "5", "Distance" : "900m", "PlaceType" : "European", "Name" : "Wildes Fraeulein"},
+        {  "ID" : "6", "Distance" : "750m", "PlaceType" : "Thai", "Name" : "Sala Thai"},
+        {  "ID" : "7", "Distance" : "200m", "PlaceType" : "French", "Name" : "Galette de Bretagne"},
+        {  "ID" : "8", "Distance" : "35m", "PlaceType" : "Mix", "Name" : "Mozzer’s"},
+        {  "ID" : "9", "Distance" : "300m", "PlaceType" : "Chinese", "Name" : "Chie-Tu Huang"},
+        {  "ID" : "10","Distance" : "500m", "PlaceType" : "Mix",  "Name" : "Markthalle"},
+        {  "ID" : "11","Distance" : "300m", "PlaceType" : "German-ish",  "Name" : "Kartoffelkeller"},
+        {  "ID" : "12","Distance" : "900m", "PlaceType" : "Asian",  "Name" : "O-Ren Ishii"},
+        {  "ID" : "13","Distance" : "1km", "PlaceType" : "Mexican",  "Name" : "Dos Amigos"}]
+    
+}
