@@ -12,6 +12,6 @@
         {  "ID" : "10","Distance" : "500m", "PlaceType" : "Mix",  "Name" : "Markthalle"},
         {  "ID" : "11","Distance" : "300m", "PlaceType" : "German-ish",  "Name" : "Kartoffelkeller"},
         {  "ID" : "12","Distance" : "900m", "PlaceType" : "Asian",  "Name" : "O-Ren Ishii"},
-        {  "ID" : "13","Distance" : "1km", "PlaceType" : "Mexican",  "Name" : "Dos Amigos"}]
-    
+        {  "ID" : "13","Distance" : "1km", "PlaceType" : "Mexican",  "Name" : "Dos Amigos"},
+        {  "ID" : "14","Distance" : "643m", "PlaceType" : "Mexican",  "Name" : "El Jarocho"}]
 }
